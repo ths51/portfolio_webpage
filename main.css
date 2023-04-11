@@ -505,7 +505,7 @@ section.blog-box {
         /* width: 100%; */
         min-width: none;
         min-height: none;
-        max-width: 100%;
+        max-width: calc(100% - (10px * 4));
     }
     section.split button {
         max-width: 200px;
