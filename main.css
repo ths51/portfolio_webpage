@@ -344,12 +344,12 @@ section.blog-box {
 
 div.widthlimit {
     width: calc(100% - (10px * 2));
-    background-color: black;
+    /* background-color: black; */
 }
 
 div.widthlimit * {
     max-width: 800px;
-    background-color: orange;
+    /* background-color: orange; */
     align-items: center;
     margin: auto;
 }
