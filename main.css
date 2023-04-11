@@ -428,7 +428,7 @@ section.blog-box {
 
     section.no-barriers div, div.no-barriers div {
         width: calc(100% - 0px);
-        margin: 10px auto;
+        margin: auto;
     }
     div img.logo {
         width: calc(100% - (10px * 4));
