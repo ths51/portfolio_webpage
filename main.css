@@ -342,6 +342,11 @@ section.blog-box {
     padding: 0;
 }
 
+div.widthlimit * {
+    max-width: 800px;
+    align-items: center;
+}
+
 @media only screen and (max-width: 750px) {
     nav {
         display: block;
