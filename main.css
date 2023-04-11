@@ -347,8 +347,12 @@ div.widthlimit {
     /* background-color: black; */
 }
 
+hr.spacer {
+    margin: 15px 0;
+}
+
 div.widthlimit * {
-    max-width: 800px;
+    max-width: 1000px;
     /* background-color: orange; */
     align-items: center;
     margin: auto;
