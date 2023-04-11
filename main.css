@@ -342,6 +342,10 @@ section.blog-box {
     padding: 0;
 }
 
+div.widthlimit {
+    max-width: calc(100% - (10px * 2))
+}
+
 div.widthlimit * {
     max-width: 800px;
     align-items: center;
