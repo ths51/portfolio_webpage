@@ -427,7 +427,7 @@ section.blog-box {
     }
 
     section.no-barriers div, div.no-barriers div {
-        width: calc(100% - 50px);
+        width: calc(100% - 0px);
         margin: 10px auto;
     }
     div img.logo {
