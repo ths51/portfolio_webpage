@@ -342,7 +342,7 @@ section.blog-box {
     padding: 0;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 750px) {
     nav {
         display: block;
         max-height: max-content;
@@ -443,7 +443,7 @@ section.blog-box {
     
 }
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 500px) {
     nav {
         display: block;
         max-height: max-content;
