@@ -424,7 +424,7 @@ section.blog-box {
 
     section.no-barriers, div.no-barriers {
         width: 100%;
-        background-color: gray;
+        /* background-color: gray; */
     }
 
     section.no-barriers div, div.no-barriers div {
