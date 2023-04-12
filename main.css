@@ -368,7 +368,7 @@ div.widthlimit * {
         border-radius: 7px 0 0 7px;
         transition: none;
         margin: 0;
-        background-color: greenyellow;
+        /* background-color: greenyellow; */
     }
     nav * {
         max-width: max-content;
@@ -408,7 +408,7 @@ div.widthlimit * {
 
     header section.main {
         width: 100%;
-        background-color: #111;
+        /* background-color: #111; */
     }
 
     a {
