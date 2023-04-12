@@ -364,7 +364,7 @@ div.widthlimit * {
         max-height: calc(max-content + 50px);
         height: calc(max-content + 50px); 
         width: 200px;
-        padding: 50px auto;
+        padding: 50px 25px;
         border-radius: 7px 0 0 7px;
         transition: none;
         margin: 0;
