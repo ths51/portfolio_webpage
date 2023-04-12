@@ -403,6 +403,7 @@ div.widthlimit * {
     header {
         display: flex;
         transition: none;
+        padding: 0;
     }
 
     header section.main {
