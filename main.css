@@ -361,7 +361,7 @@ div.widthlimit * {
 @media only screen and (max-width: 750px) {
     nav {
         display: block;
-        /* max-height: max-content; */
+        max-height: max-content;
         height: calc(max-content + 50px); 
         width: 200px;
         padding: 50px 0;
