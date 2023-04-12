@@ -406,6 +406,7 @@ div.widthlimit * {
 
     header section.main {
         width: 100%;
+        background-color: #111;
     }
 
     a {
