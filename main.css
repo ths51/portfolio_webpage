@@ -368,7 +368,7 @@ div.widthlimit * {
         border-radius: 7px 0 0 7px;
         transition: none;
         margin: 0;
-        background-color: maroon;
+        background-color: navy;
     }
     nav * {
         max-width: max-content;
