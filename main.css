@@ -362,7 +362,7 @@ div.widthlimit * {
     nav {
         display: block;
         /* max-height: calc(max-content + 50px); */
-        height: 100%; 
+        height: calc(max-content + 50px);
         width: 200px;
         padding: 50px auto;
         border-radius: 7px 0 0 7px;
