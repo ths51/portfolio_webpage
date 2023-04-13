@@ -172,11 +172,11 @@ section.split div {
     height: max-content;
 }
 
-section.split div {
+section.split * {
     /* background-color: var(--secondary); */
     /* border: solid 3px white; */
     width: 100%;
-    height: max-content;
+    height: auto;
 }
 
 div.main {
