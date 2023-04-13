@@ -241,7 +241,8 @@ code {
 }
 
 caption {
-    padding: 25px;
+    margin: 5px 25px;
+    font-size: xx-small;
 }
 
 button {
