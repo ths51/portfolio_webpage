@@ -249,8 +249,10 @@ section.split button {
     background-color: var(--primary);
 }
 
-img.transparent {
-    opacity: 50%;
+img.front-logo {
+    width: 100%;
+    margin: auto;
+    padding: auto;
 }
 
 h1 {
