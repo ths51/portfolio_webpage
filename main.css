@@ -241,7 +241,7 @@ code {
 }
 
 caption {
-    margin: 5px 25px;
+    padding: 0 25px;
     font-size: xx-small;
     font-family: 'Rubik';
 }
