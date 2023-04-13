@@ -175,7 +175,11 @@ section.split div {
 section.split * {
     /* background-color: var(--secondary); */
     /* border: solid 3px white; */
-    width: 100%;
+    width: auto;
+    overflow-x: auto;
+    overflow-wrap: normal;
+    margin: auto 10px;
+    padding: auto;
     height: auto;
 }
 
