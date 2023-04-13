@@ -241,9 +241,10 @@ code {
 }
 
 caption {
-    padding: 0 25px;
+    padding: 25px 0;
     font-size: xx-small;
     font-family: 'Rubik';
+    background-color: red;
 }
 
 button {
