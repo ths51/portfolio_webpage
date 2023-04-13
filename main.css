@@ -172,6 +172,13 @@ section.split div {
     height: max-content;
 }
 
+section.split div {
+    /* background-color: var(--secondary); */
+    /* border: solid 3px white; */
+    width: 100%;
+    height: max-content;
+}
+
 div.main {
     background-color: var(--secondary);
     border: solid 3px white;
@@ -252,7 +259,7 @@ section.split button {
 img.front-logo {
     margin: auto 10px;
     /* max-width: 100%; */
-    width: 10%;
+    /* width: 10%; */
     padding: auto;
     max-height: auto;
 }
