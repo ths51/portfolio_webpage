@@ -172,17 +172,6 @@ section.split div {
     height: max-content;
 }
 
-/* section.split * {
-    background-color: var(--secondary);
-    border: solid 3px white;
-    width: 20%;
-    overflow-x: auto;
-    overflow-wrap: normal;
-    margin: auto 10px;
-    padding: auto;
-    height: auto;
-} */
-
 div.main {
     background-color: var(--secondary);
     border: solid 3px white;
