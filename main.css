@@ -249,6 +249,10 @@ section.split button {
     background-color: var(--primary);
 }
 
+img.transparent {
+    opacity: 50%;
+}
+
 h1 {
     font-weight: 700;
     text-transform: uppercase;
