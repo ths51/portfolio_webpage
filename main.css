@@ -240,6 +240,10 @@ code {
     border-radius: 0;
 }
 
+caption {
+    padding: 25px;
+}
+
 button {
     background-color: var(--secondary);
     border: 2pt solid white;
