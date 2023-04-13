@@ -252,9 +252,9 @@ section.split button {
 img.front-logo {
     margin: auto 10px;
     /* max-width: 100%; */
-    width: calc((100% - (10px * (2 + 16)))/8);
+    width: 10%;
     padding: auto;
-    max-height: fit-content;
+    max-height: auto;
 }
 
 h1 {
