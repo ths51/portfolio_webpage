@@ -325,7 +325,7 @@ img.normal_logo {
     max-width: 350px;
     /* max-height: 350px; */
     aspect-ratio: 1 / 1;
-    padding: 0;
+    padding: 15px;
     margin: auto;
     /* border-radius: 5px; */
     object-fit: contain;
