@@ -374,7 +374,7 @@ div.widthlimit * {
     margin: auto;
 }
 
-@media only screen and (max-width: 750px) {
+@media only screen and (max-width: 800px) {
     nav {
         display: block;
         max-height: 100%;
