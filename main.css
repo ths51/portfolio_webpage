@@ -1,5 +1,5 @@
 :root {
-    --primary: #1c3276;
+    --primary: #173aa2;
     --secondary: #196126;
     --tertiary: #9ba4a9;
     --lindenwood: rgb(181 162 106);
@@ -364,7 +364,7 @@ div.widthlimit {
 }
 
 hr.spacer {
-    margin: 50px;
+    margin: 10px 25px;
 }
 
 div.widthlimit * {
