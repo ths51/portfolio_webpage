@@ -370,7 +370,7 @@ img.insection {
 .split img.insection {
     min-width: 150px;
     max-width: 400px;
-    width: auto;
+    width: calc(100% - (10px * 4) - 300px - 200px);
     height: auto;
     max-height: 600px;
     display: flex;
@@ -520,6 +520,9 @@ div.widthlimit * {
         /* box-shadow: 0 0 5px 5px var(--primary); */
     }
     
+    .split img.insection {
+        width: calc(100% - (10px * 4));
+    }
 }
 
 @media only screen and (max-width: 500px) {
@@ -531,8 +534,8 @@ div.widthlimit * {
         transition: none;
         width: 100%;
     }
-
-
+    
+    
     nav * {
         margin: auto;
         padding: auto;
@@ -542,24 +545,24 @@ div.widthlimit * {
         margin: auto;
         padding: auto;
     }
-
+    
     nav section {
         min-width: 100%;
     }
-
+    
     nav section * {
         margin: auto;
         padding: auto;
     }
-
+    
     p {
         min-width: none;
     }
-
+    
     header {
         display: block;
     }
-
+    
     nav div {
         min-width: 100%;
         padding: 0;
@@ -573,7 +576,7 @@ div.widthlimit * {
         visibility: visible;
         display: block;
     }
-
+    
     section.split {
         display: block;
         border-radius: 0;
@@ -601,5 +604,9 @@ div.widthlimit * {
         border-radius: 0;
         margin: 15px 20px;
         /* box-shadow: 0 0 5px 5px var(--primary); */
+    }
+    
+    .split img.insection {
+        width: calc(100% - (10px * 4));
     }
 }
