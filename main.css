@@ -378,7 +378,7 @@ img.insection {
     border-radius: 15px;
     padding: 0;
     object-fit: cover;
-    box-shadow: 0 0 5px 5px var(--primary);
+    box-shadow: none;
 }
 
 div img.logo {
