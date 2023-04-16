@@ -84,6 +84,7 @@ nav * {
 
 p.width {
     min-width: 350px;
+    min-width: 650px;
 }
 
 nav *:hover, nav .selected:hover {
