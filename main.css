@@ -370,9 +370,9 @@ img.insection {
 .split img.insection {
     min-width: 200px;
     max-width: 400px;
-    width: calc(100% - (10px * 2) - 350px);
+    width: 100%;
     height: auto;
-    max-height: 600px;
+    max-height: 500px;
     display: flex;
     /* border: 2px solid white; */
     border-radius: 15px;
