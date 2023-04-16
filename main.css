@@ -359,6 +359,7 @@ section.centered div {
 img.insection {
     width: calc(100% - (10px * 4));
     max-width: 400px;
+    height: auto;
     /* border: 2px solid white; */
     border-radius: 15px;
     padding: 0;
