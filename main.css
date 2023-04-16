@@ -372,7 +372,7 @@ img.insection {
     max-height: 600px;
     max-width: 400px;
     height: auto;
-    display: flexbox;
+    display: flex;
     /* border: 2px solid white; */
     border-radius: 15px;
     padding: 0;
