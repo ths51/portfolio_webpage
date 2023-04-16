@@ -179,14 +179,17 @@ section.split div {
 div.main {
     background-color: var(--secondary);
     border: solid 3px white;
+    max-width: calc(100% - (10px * 2));
 }
 div.secondary {
     background-color: var(--tertiary);
     border: solid 3px white;
+    max-width: calc(100% - (10px * 2));
 }
 div.tertiary {
     background-color: var(--primary);
     border: solid 3px white;
+    max-width: calc(100% - (10px * 2));
 }
 
 div.secondary * {
