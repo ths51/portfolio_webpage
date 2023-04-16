@@ -429,6 +429,10 @@ div.widthlimit * {
         padding: 5px;
         margin: 0px;
     }
+    
+    p {
+        min-width: none;
+    }
 
     .menu-button {
         display: none;
@@ -527,6 +531,10 @@ div.widthlimit * {
     nav section * {
         margin: auto;
         padding: auto;
+    }
+
+    p {
+        min-width: none;
     }
 
     header {
