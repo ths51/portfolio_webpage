@@ -536,6 +536,10 @@ div.widthlimit * {
         transition: none;
         width: 100%;
     }
+
+    p {
+        font-size: 12px;
+    }
     
     
     nav * {
