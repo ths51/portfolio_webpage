@@ -82,6 +82,10 @@ nav * {
     color: var(--primary);
 }
 
+p {
+    min-width: 350px;
+}
+
 nav *:hover, nav .selected:hover {
     background-color: var(--secondary);
     color: white;
