@@ -363,7 +363,7 @@ img.insection {
     display: block;
     /* border: 2px solid white; */
     border-radius: 15px;
-    /* margin: 15px; */
+    padding: 0;
     box-shadow: 0 0 5px 5px var(--primary);
 }
 
