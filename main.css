@@ -82,7 +82,7 @@ nav * {
     color: var(--primary);
 }
 
-p {
+p.width {
     min-width: 350px;
 }
 
