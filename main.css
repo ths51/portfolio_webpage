@@ -84,7 +84,7 @@ nav * {
 
 p.width {
     min-width: 350px;
-    min-width: 650px;
+    max-width: 500px;
 }
 
 nav *:hover, nav .selected:hover {
@@ -450,8 +450,9 @@ div.widthlimit * {
         margin: 0px;
     }
     
-    p {
+    p.width {
         min-width: none;
+        max-width: none;
     }
 
     .menu-button {
@@ -556,8 +557,9 @@ div.widthlimit * {
         padding: auto;
     }
     
-    p {
+    p.width {
         min-width: none;
+        max-width: none;
     }
     
     header {
