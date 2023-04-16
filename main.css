@@ -358,12 +358,14 @@ section.centered div {
 
 img.insection {
     width: auto;
+    max-height: 600px;
     max-width: 400px;
     height: auto;
     display: block;
     /* border: 2px solid white; */
     border-radius: 15px;
     padding: 0;
+    object-fit: cover;
     box-shadow: 0 0 5px 5px var(--primary);
 }
 
